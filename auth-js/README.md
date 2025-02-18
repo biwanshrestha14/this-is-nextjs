@@ -121,7 +121,7 @@ export default function Profile() {
 
 
    ```md
-   ![Authentication UI](https://github.com/biwanshrestha14/this-is-nextjs/blob/main/auth-js/assets/login.png?raw=true)
+   ![Authentication UI](https://github.com/biwanshrestha14/this-is-nextjs/blob/af0f698e6d9e2740e21f1a991b41675ecb2c570c/auth-js/assets/loggedin.png)
    ```
    ```md
    ![Authentication UI](https://github.com/biwanshrestha14/this-is-nextjs/blob/main/auth-js/assets/loggedin.png?raw=true)
