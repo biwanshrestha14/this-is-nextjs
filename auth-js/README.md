@@ -117,21 +117,14 @@ export default function Profile() {
 }
 ```
 
-## Adding an Image of the Output
+## Image of the Output
 
-To include an image of the authentication UI in the README, follow these steps:
 
-1. **Take a screenshot of the output.**
-2. **Save the image in the `public` folder of your project.**
-3. **Reference the image in the README using markdown:**
    ```md
-   ![Authentication UI](public/authentication_ui.png)
+   ![Authentication UI](https://github.com/biwanshrestha14/this-is-nextjs/blob/main/auth-js/assets/login.png?raw=true)
    ```
-
-Alternatively, if you upload the image to an external service like Imgur or GitHub, you can use the direct URL:
-
    ```md
-   ![Authentication UI](assets/login.png)
+   ![Authentication UI](https://github.com/biwanshrestha14/this-is-nextjs/blob/main/auth-js/assets/loggedin.png?raw=true)
    ```
 
 ## Running the Application
