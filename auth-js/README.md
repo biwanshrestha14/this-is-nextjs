@@ -128,7 +128,7 @@ export default function Profile() {
    ```
 
 ## Running the Application
-
+ 
 Start the development server:
 
 ```bash
